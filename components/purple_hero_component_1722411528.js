@@ -23,6 +23,13 @@ Vue.component("purple_hero_component_1722411528", {
                             </a>
                         </div>
                     </div>
+
+                    <div id="hello-world-button-container" class="flex mt-4">
+                        <button id="hello-world-button" class="flex-1 btn bg-blue-500 hover:bg-blue-600 text-white w-full transition duration-150 ease-in-out">
+                            Hello World
+                        </button>
+                    </div>
+
     
                 </div>
     
