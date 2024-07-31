@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you prefer the Ethereum information to focus on technical details or general overview and applications?\", \"option1\": \"Technical details including blockchain technology, smart contracts, and Ethereum virtual machine\", \"option2\": \"General overview, usage, and potential applications of Ethereum\"}, {\"question 2\": \"Should the Ethereum information be dynamically updated to include the latest blockchain data, or remain static?\", \"option1\": \"Dynamically updated with current information like recent transactions, gas prices, and network difficulty\", \"option2\": \"Static, providing a foundational understanding without needing constant updates\"}], \"input_token_count\": 262, \"output_token_count\": 129, \"time_taken\": \"0:00:06.242785\"}",
+        "message_id": "guest31072024074212",
+        "timestamp": "31072024074221",
+        "component_file_name": "dark_footer_component_1722411528",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I can provide you a brief introduction on the Ethereum blockchain.\n\nEthereum is an open-source blockchain platform founded in 2014 by Vitalik Buterin. Ethereum's blockchain consists of a distributed network of computers, called nodes, that run smart contracts. Smart contracts are self-executing contracts that automatically enforce the terms of an agreement between two parties without the need for intermediaries.\n\nOne unique feature of Ethereum is the ability to create custom tokens, also known as ERC-20 tokens, on top of the Ethereum blockchain. These tokens can represent assets, currencies, or other utilities. This functionality has led to the rise of decentralized applications (dApps) built on top of the Ethereum blockchain.\n\nEthereum also uses a cryptocurrency called Ether (ETH) as its native currency. Ether is used as a reward for miners who validate transactions on the network and as a means of payment for executing smart contracts.\n\nOverall, Ethereum's blockchain technology has the potential to transform a variety of industries by providing a secure and decentralized platform for executing contracts and transactions.",
         "message_id": "guest31072024074212",
