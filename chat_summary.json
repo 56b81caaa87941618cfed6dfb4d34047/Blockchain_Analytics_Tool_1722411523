@@ -42,5 +42,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you prefer the Ethereum information to focus on technical details or general overview and applications?\", \"option1\": \"Technical details including blockchain technology, smart contracts, and Ethereum virtual machine\", \"option2\": \"General overview, usage, and potential applications of Ethereum\"}, {\"question 2\": \"Should the Ethereum information be dynamically updated to include the latest blockchain data, or remain static?\", \"option1\": \"Dynamically updated with current information like recent transactions, gas prices, and network difficulty\", \"option2\": \"Static, providing a foundational understanding without needing constant updates\"}], \"input_token_count\": 262, \"output_token_count\": 129, \"time_taken\": \"0:00:06.242785\"}",
         "timestamp": "31072024074221",
         "message_id": "guest31072024074212"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Real-time Ethereum blockchain statistics display\", \"checked\": true}, {\"feature\": \"Interactive charts for Ethereum market trends\", \"checked\": false}, {\"feature\": \"Ethereum transaction history search and filter\", \"checked\": true}, {\"feature\": \"Latest Ethereum block and transaction notifications\", \"checked\": true}, {\"feature\": \"Ethereum price prediction model integration\", \"checked\": false}, {\"feature\": \"User customizable watchlist for Ethereum-based tokens\", \"checked\": false}], \"input_token_count\": 216, \"output_token_count\": 114, \"time_taken\": \"0:00:07.541719\"}",
+        "timestamp": "31072024074223",
+        "message_id": "guest31072024074212"
     }
 ]
