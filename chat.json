@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you have a preferred style or theme for the navbar that aligns with your brand aesthetics, such as colors and fonts?\", \"option1\": \"Yes, I will provide the style guide including colors and fonts.\", \"option2\": \"No, please create a minimalistic design that fits with current web trends.\"}, {\"question 2\": \"Should the navbar be fixed at the top of the page as users scroll, or does it remain static?\", \"option1\": \"Yes, make the navbar fixed at the top.\", \"option2\": \"No, the navbar should remain static and not move with scrolling.\"}], \"input_token_count\": 266, \"output_token_count\": 137, \"time_taken\": \"0:00:05.891006\"}",
+        "message_id": "guest31072024075051",
+        "timestamp": "31072024075059",
+        "component_file_name": "purple_hero_component_1722411528",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Noted, I'll add a navbar with links to home, about and contact.",
         "message_id": "guest31072024075051",
