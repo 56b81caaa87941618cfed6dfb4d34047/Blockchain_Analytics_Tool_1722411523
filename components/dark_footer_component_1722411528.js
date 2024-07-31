@@ -33,13 +33,15 @@ Vue.component("dark_footer_component_1722411528", {
             </div>
  
             <!-- 2nd block -->
+            <!-- 2nd block -->
             <div id="footer-block-2" class="sm:col-span-6 md:col-span-3 lg:col-span-2">
-                <h6 id="footer-block-2-title" class="text-sm font-medium mb-2" :class="textColorPrimary">Blockchain Analytics</h6>
+                <h6 id="footer-block-2-title" class="text-sm font-medium mb-2" :class="textColorPrimary">Ethereum Blockchain</h6>
                 <ul id="footer-block-2-list" class="text-sm space-y-2">
-                    <li><a id="footer-block-2-link-1" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">Monitor and visualize on-chain metrics</a></li>
-                    <li><a id="footer-block-2-link-2" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">Identify trends and opportunities</a></li>
-                    <li><a id="footer-block-2-link-3" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">Make data-driven investment decisions</a></li>
-                    <li><a id="footer-block-2-link-4" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">Gain insights into DeFi, NFTs, DAOs</a></li>
+                    <li><a id="footer-block-2-link-1" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">Smart Contract Platform</a></li>
+                    <li><a id="footer-block-2-link-2" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">Decentralized Applications (DApps)</a></li>
+                    <li><a id="footer-block-2-link-3" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">ERC-20 Tokens</a></li>
+                    <li><a id="footer-block-2-link-4" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">Proof of Stake Consensus</a></li>
+                    <li><a id="footer-block-2-link-5" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">Gas Fees and EIP-1559</a></li>
                 </ul>
             </div>
  
